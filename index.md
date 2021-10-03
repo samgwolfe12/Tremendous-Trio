@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Tremendous Trio
 
 You can use the [editor on GitHub](https://github.com/samgwolfe12/Tremendous-Trio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
