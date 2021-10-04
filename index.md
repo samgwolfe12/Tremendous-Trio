@@ -19,7 +19,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-#A. Task / Problem Definition
+# A. Task / Problem Definition
 
 1. Introduce your problem.
 - Examine and describe your problem of study. 
@@ -35,7 +35,7 @@ Syntax highlighted code block
 - How would users benefit from a solution (not necessarily your solution) to your problem of study?
 
 
-#B. Analysis of Existing Solutions
+# B. Analysis of Existing Solutions
 
 1. Describe existing solutions.
 - What existing solutions, products, and services currently relate to your problem of study? 
@@ -47,7 +47,7 @@ Syntax highlighted code block
 - What guidelines or principles do these solutions, products, and services conform to, either officially or unofficially, if any? 
 - What guidelines or principles appropriately serve your users?
 
-#C. Proposed Solution
+# C. Proposed Solution
 
 1. Propose a solution.
 - Using points from (A) and (B), propose a design solution to your problem of study. Do not propose a solution that’s in search of a problem! At this stage, let the problem lead you to a solution. 
@@ -57,7 +57,7 @@ Syntax highlighted code block
 2. How will you measure success?
 - You do not need to supply an evaluation for this milestone; however, you should discuss what criteria should be used to judge if your design is a success or not.
 
-#D. Summary Video
+# D. Summary Video
 
 Create a 5-10 minute video that summarizes the information in parts (A), (B), and (C). The creation of this video should involve all team members, and the video itself should contain credits at the end describing who did what.
 
