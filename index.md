@@ -1,23 +1,3 @@
-## Tremendous Trio
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 # A. Task / Problem Definition
 
@@ -62,3 +42,24 @@ Syntax highlighted code block
 Create a 5-10 minute video that summarizes the information in parts (A), (B), and (C). The creation of this video should involve all team members, and the video itself should contain credits at the end describing who did what.
 
 NOTE: Your instructor recommends that you upload your video to a service like YouTube and use the “unlisted” setting, if available, so that only people who know the link to the video can view it. You should provide the link to the video in your milestone deliverable report; if your report is an HTML page, then you may embed the video into the page in addition to providing the link.
+
+/*
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+*/
