@@ -67,60 +67,48 @@ Syntax highlighted code block
 
 # A. Task / Problem Definition
 
-1)	Affordances
+##Affordances
 	1.	The Kaltura screen capture software affords the user the ability to capture their entire computer screen or a single window, while also recording video or audio only. 
 	2.	The software affords the user a ”smooth” transition from recording to submission for ease of use.
 	3.	The software affords the user an easy way of attaching external files (pictures, videos, etc.) to the correct assessment on eLC
-2)	Signifiers
+##Signifiers
 	1.	The main signifier of Kaltura is the large red record button that signifies to the user that you are able to record a video.
 	2.	Another signifier would be the transition from recording, to submission indicated by Kaltura once you are done capturing.
-3)	The issue at Hand
+##The Issue at Hand
 	1.	The problem is that many times when using Kaltura the screen desired to be captured is not the one even present in the video.
 	2.	The largest issue that I and the group have personally faced is that when the video is done being recorded the submission process is a nightmare. On many occasions the file becomes corrupted, will not save or is the wrong submission type desired by the instructor whom explicitly suggested using Kaltura.
-4)	Seven Stages Examples
+##Seven Stages Examples
 	1. The goal of Kaltura is to provide a straightforward tool for students to use in the event they need to record their screen for an assignment or project that requires submission.
 	7. If we were to compare Kaltura to another free screen capture software such as Screen-cast-omatic it is easy to see that the latter is a more desirable software to use.
-5)	Potential users
+##Potential users
 	1.	Essentially most users that we will be focusing on as a group are students that use Kaltura through ELC for assignment submission.
 
 
 # B. Analysis of Existing Solutions
-The COVID epidemic brought with it a greater than ever need for efficient cloud based
-video management services for use by companies and educational institutes. While Kaltura is a
-good option for many due to it being open source with a reasonable cost of integration within the
-Learning Management Systems used by many universities, it is far from the only option.
-Several competitors in the industry offer notable advantages to Kaltura in terms of better
-technical support for users, better audio quality and management, the inclusion of additional
-useful features, better video editing options, and others. These advantages often come at a
-cost, however, with the disadvantages of competitors of Kaltura including a far greater initial
-cost, greater problems with latency, and less intuitive available methods for the organization of
-uploaded videos into defined user access categories. Dacast and Panopto are both popular
-alternatives for Kaltura and are described by users as easier to use and more flexible than
-Kaltura, as well as allowing for features such as Panopto’s option for recording multiple inputs at
-once and Dacast’s Zoom meeting integration. Panopto also offers auto archiving of videos,
-allowing for the client to create and manage a library of videos from different users, which would
-allow a university to easily archive and maintain a library of instructional videos uploaded by its
-professors. Microsoft Streams also offers this feature along with an audio transcription feature
-that makes it easier to search for videos in the library, which would be very useful if integrated
-properly into a Learning Management System. These advantages, while useful, are perhaps
-undermined by the far greater initial cost of implementation for Panopto and Microsoft Streams,
-in comparison to Kaltura. In addition, many of the alternatives for Kaltura also share its flaws,
-with Dacast suffering from inadequate technical support according to many of its reviews as well
-as high video latency, issues users have also reported about Kaltura.
-Potential guidelines and principles for these cloud based video management services
-should include the promotion of universal usability with multi-layer interface design,
-allowing for first time and beginner users to easily adapt to the use of the product.
-Kaltura shows a clear disadvantage in this regard, as can be noted by the necessity for
-the extensive instructional content posted by UGA to facilitate its use by instructors and
-students, as well as the many reviews noting its user unfriendliness.While some of the
-alternatives improve in this regard, others share these issues, and for use in an educational
-institute it's crucial that the video management system be integrated with the learning
-management system in use at the university or school in an intuitive and user-friendly manner
-because of the wide variety of socio-economic backgrounds from which the students may be
-coming. It is therefore essential that these students, especially those dealing with language
-barriers having come from other nations, be allowed access to a video uploading system with a
-multi-layer interface design--one that is easy to adapt to the use of at the first layer, allowing the
-student to later move up to higher layers as needed.
+##Background
+1. While Kaltura is a good option for many due to it being open source with a reasonable cost of integration within the
+Learning Management Systems used by many universities, it is not the only option.
+
+##Other Options
+1. Dacast and Panopto are popular alternatives for Kaltura that users descibe as easier to use and more flexible.
+2. These media services allowing for features such as Panopto’s option for recording multiple inputs at once and Dacast’s Zoom meeting integration.
+3. Panopto also offers auto archiving of videos, allowing for the client to create and manage a library of videos from different users, which would
+allow a university to easily archive and maintain a library of instructional videos uploaded by its professors.
+4. Microsoft Streams also offers this feature along with an audio transcription feature that makes it easier to search for videos in the library, which would be very useful if integrated properly into a Learning Management System.
+
+##Advantages of Using Alternatives
+1. Kaltura's competitors offer notable advantages such as...
+2. better technical support for users, better audio quality and management, the inclusion of additional useful features, better video editing options, and others
+
+##The Cost of Using Alternatives
+1. Competitors of Kaltura including a far greater initial cost, greater problems with latency, and less intuitive available methods for the organization of uploaded videos into defined user access categories.
+2. Many of the alternatives for Kaltura also share its flaws, with Dacast suffering from inadequate technical support according to many of its reviews as well as high video latency
+
+##Potential Guidelines and Principles
+1. Potential Guidelines should include the promotion of universal usability with multi-layer interface design.
+2. They should allow for first time and beginner users to easily adapt to the use of the product.
+3. For educational use it is crucial that the video management system be integrated with the school's learning management system in a user-friendly manner. This is especially important because of the wide variety of socio-economic backgrounds from which the students may be coming. 
+4. It is therefore essential that these students,be allowed access to a video uploading system with amulti-layer interface design--one that is easy to adapt to.
 
 
 # C. Proposed Solution
