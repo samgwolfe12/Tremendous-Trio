@@ -37,7 +37,7 @@ Learning Management Systems used by many universities, it is not the only option
 allow a university to easily archive and maintain a library of instructional videos uploaded by its professors.
 4. Microsoft Streams also offers this feature along with an audio transcription feature that makes it easier to search for videos in the library, which would be very useful if integrated properly into a Learning Management System.
 
-## Advantages of Using Alternatives
+## The Advantages of Using Alternatives
 1. Kaltura's competitors offer notable advantages such as...
 2. better technical support for users, better audio quality and management, the inclusion of additional useful features, better video editing options, and others
 
