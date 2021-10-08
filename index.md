@@ -20,13 +20,13 @@
 ## Seven Stages Example
 1. Goal: In a science class, college students are broken up into groups and asked to record a video explaining different topics. Their goal is to upload these videos during the class in time for the professor to review them on the board.
 2. Execution: 
-- Plan: The Tremendous Trio considers making their video through the Kaltura media software or making it else where and posting it to Kaltura after.
-- Specify: They decide to take their video on a phone and upload it to the Kaltura submission after.
-- Perform: The group makes their video and downloads it on a laptop. One member logs into their elc and opens the discussion page. They are presented with many options to insert files and are confused whether to pick "Insert Link", "Enter Embedded Code", or "My Media". The teacher tells the class to select my media. Again the group is confused. There are many input options and they are not sure which are required. They do not upload the video in time. 
-3.Evaluation:
-- Perceive: The majority of the class either does not upload their video in time, or does not do it correctly.
-- Interpret: Because of the complicated software, a simple task is made much harder and it takes more time. 
-- Compare: The group agrees that they did not meet their goal.
+  - Plan: The Tremendous Trio considers making their video through the Kaltura media software or making it else where and posting it to Kaltura after.
+  - Specify: They decide to take their video on a phone and upload it to the Kaltura submission after.
+  - Perform: The group makes their video and downloads it on a laptop. One member logs into their elc and opens the discussion page. They are presented with many options to insert files and are confused whether to pick "Insert Link", "Enter Embedded Code", or "My Media". The teacher tells the class to select my media. Again the group is confused. There are many input options and they are not sure which are required. They do not upload the video in time. 
+3. Evaluation:
+  - Perceive: The majority of the class either does not upload their video in time, or does not do it correctly.
+  - Interpret: Because of the complicated software, a simple task is made much harder and it takes more time. 
+  - Compare: The group agrees that they did not meet their goal.
 
 ## Potential users
 1. Many other learning managements systems (LMS) use Kaltura as well including d2l and Canvas. Therefore, the stakeholders are all students and instructors who use Kaltura through a LMS.
