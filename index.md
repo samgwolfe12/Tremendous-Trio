@@ -30,6 +30,8 @@ iii. Compare: The group agrees that they did not meet their goal.
 
 ## Potential users
 1. Many other learning managements systems (LMS) use Kaltura as well including d2l and Canvas. Therefore, the stakeholders are all students and instructors who use Kaltura through a LMS.
+2. Students need to upload media while teachers not only need to upload, but view the media that is turned in.
+3. Users would benefit from a solution by having an easier and faster time uploading and downloading media.
 
 
 # B. Analysis of Existing Solutions
