@@ -69,6 +69,7 @@ allow a university to easily archive and maintain a library of instructional vid
 # D. Summary Video
 ##Embed
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4W_ELg_jezY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ##Link
 https://youtu.be/4W_ELg_jezY
 
