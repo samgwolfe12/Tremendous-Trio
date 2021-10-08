@@ -68,20 +68,20 @@ Syntax highlighted code block
 # A. Task / Problem Definition
 
 1)	Affordances
--	The Kaltura screen capture software affords the user the ability to capture their entire computer screen or a single window, while also recording video or audio only. 
--	The software affords the user a ”smooth” transition from recording to submission for ease of use.
--	The software affords the user an easy way of attaching external files (pictures, videos, etc.) to the correct assessment on eLC
+	1.	The Kaltura screen capture software affords the user the ability to capture their entire computer screen or a single window, while also recording video or audio only. 
+	2.	The software affords the user a ”smooth” transition from recording to submission for ease of use.
+	3.	The software affords the user an easy way of attaching external files (pictures, videos, etc.) to the correct assessment on eLC
 2)	Signifiers
--	The main signifier of Kaltura is the large red record button that signifies to the user that you are able to record a video.
--	Another signifier would be the transition from recording, to submission indicated by Kaltura once you are done capturing.
+	1.	The main signifier of Kaltura is the large red record button that signifies to the user that you are able to record a video.
+	2.	Another signifier would be the transition from recording, to submission indicated by Kaltura once you are done capturing.
 3)	The issue at Hand
--	The problem is that many times when using Kaltura the screen desired to be captured is not the one even present in the video.
--	The largest issue that I and the group have personally faced is that when the video is done being recorded the submission process is a nightmare. On many occasions the file becomes corrupted, will not save or is the wrong submission type desired by the instructor whom explicitly suggested using Kaltura.
+	1.	The problem is that many times when using Kaltura the screen desired to be captured is not the one even present in the video.
+	2.	The largest issue that I and the group have personally faced is that when the video is done being recorded the submission process is a nightmare. On many occasions the file becomes corrupted, will not save or is the wrong submission type desired by the instructor whom explicitly suggested using Kaltura.
 4)	Seven Stages Examples
 	1. The goal of Kaltura is to provide a straightforward tool for students to use in the event they need to record their screen for an assignment or project that requires submission.
 	7. If we were to compare Kaltura to another free screen capture software such as Screen-cast-omatic it is easy to see that the latter is a more desirable software to use.
 5)	Potential users
--	Essentially most users that we will be focusing on as a group are students that use Kaltura through ELC for assignment submission.
+	1.	Essentially most users that we will be focusing on as a group are students that use Kaltura through ELC for assignment submission.
 
 
 # B. Analysis of Existing Solutions
@@ -125,5 +125,4 @@ student to later move up to higher layers as needed.
 
 # C. Proposed Solution
 
-![image](https://user-images.githubusercontent.com/30542427/136602800-579b92b7-719f-45cf-a844-d2eb78a31a35.png)
 
