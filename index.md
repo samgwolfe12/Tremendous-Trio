@@ -1,5 +1,60 @@
 
 # Tremendous Trio
+
+# A. Task / Problem Definition
+
+## Affordances
+1. The Kaltura screen capture software affords the user the ability to capture their entire computer screen or a single window, while also recording video or audio only. 
+2. The software affords the user a ”smooth” transition from recording to submission for ease of use.
+3. The software affords the user an easy way of attaching external files (pictures, videos, etc.) to the correct assessment on eLC
+## Signifiers
+1. The main signifier of Kaltura is the large red record button that signifies to the user that you are able to record a video.
+2. Another signifier would be the transition from recording, to submission indicated by Kaltura once you are done capturing.
+## The Issue at Hand
+1. The problem is that many times when using Kaltura the screen desired to be captured is not the one even present in the video.
+2. The largest issue that I and the group have personally faced is that when the video is done being recorded the submission process is a nightmare. On many occasions the file becomes corrupted, will not save or is the wrong submission type desired by the instructor whom explicitly suggested using Kaltura.
+## Seven Stages Examples
+1. The goal of Kaltura is to provide a straightforward tool for students to use in the event they need to record their screen for an assignment or project that requires submission.
+2. If we were to compare Kaltura to another free screen capture software such as Screen-cast-omatic it is easy to see that the latter is a more desirable software to use.
+## Potential users
+1. Essentially most users that we will be focusing on as a group are students that use Kaltura through ELC for assignment submission.
+
+
+# B. Analysis of Existing Solutions
+## Background
+1. While Kaltura is a good option for many due to it being open source with a reasonable cost of integration within the
+Learning Management Systems used by many universities, it is not the only option.
+
+## Other Options
+1. Dacast and Panopto are popular alternatives for Kaltura that users descibe as easier to use and more flexible.
+2. These media services allowing for features such as Panopto’s option for recording multiple inputs at once and Dacast’s Zoom meeting integration.
+3. Panopto also offers auto archiving of videos, allowing for the client to create and manage a library of videos from different users, which would
+allow a university to easily archive and maintain a library of instructional videos uploaded by its professors.
+4. Microsoft Streams also offers this feature along with an audio transcription feature that makes it easier to search for videos in the library, which would be very useful if integrated properly into a Learning Management System.
+
+## Advantages of Using Alternatives
+1. Kaltura's competitors offer notable advantages such as...
+2. better technical support for users, better audio quality and management, the inclusion of additional useful features, better video editing options, and others
+
+## The Cost of Using Alternatives
+1. Competitors of Kaltura including a far greater initial cost, greater problems with latency, and less intuitive available methods for the organization of uploaded videos into defined user access categories.
+2. Many of the alternatives for Kaltura also share its flaws, with Dacast suffering from inadequate technical support according to many of its reviews as well as high video latency
+
+## Potential Guidelines and Principles
+1. Potential Guidelines should include the promotion of universal usability with multi-layer interface design.
+2. They should allow for first time and beginner users to easily adapt to the use of the product.
+3. For educational use it is crucial that the video management system be integrated with the school's learning management system in a user-friendly manner. This is especially important because of the wide variety of socio-economic backgrounds from which the students may be coming. 
+4. It is therefore essential that these students,be allowed access to a video uploading system with amulti-layer interface design--one that is easy to adapt to.
+
+
+# C. Proposed Solution
+1. Our problem specifically lies in the fact that uploading media to eLC quizzes is to complicated and tedious. Kaltura, while still being complicated, has an upside of embedding their own media viewer/player so that uploaded media is viewable in the quiz page. **We propose as a solution that there be an option to embed the Kaltura media viewer and student be able to upload their media into it.** This essentially cuts out the middle man of having to upload your video through Kaltura and wait for it to process on their end before it shows up in your quiz. When media is added through Kaltura it requires a bunch of information along with it like a title, date, description, all of which are not necessary and can get time consuming if you have more than one to upload. These things are required because the media is saved to Kaltura's website and needs accompanying information. In our solution however, the video is coming directly from the student to eLC there no longer needs to be an external link to media and that info is no longer a part of the process.
+
+
+
+
+
+<!--
 # A. Task / Problem Definition
 
 1. Introduce your problem.
@@ -64,53 +119,5 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 */
-
-# A. Task / Problem Definition
-
-##Affordances
-	1.	The Kaltura screen capture software affords the user the ability to capture their entire computer screen or a single window, while also recording video or audio only. 
-	2.	The software affords the user a ”smooth” transition from recording to submission for ease of use.
-	3.	The software affords the user an easy way of attaching external files (pictures, videos, etc.) to the correct assessment on eLC
-##Signifiers
-	1.	The main signifier of Kaltura is the large red record button that signifies to the user that you are able to record a video.
-	2.	Another signifier would be the transition from recording, to submission indicated by Kaltura once you are done capturing.
-##The Issue at Hand
-	1.	The problem is that many times when using Kaltura the screen desired to be captured is not the one even present in the video.
-	2.	The largest issue that I and the group have personally faced is that when the video is done being recorded the submission process is a nightmare. On many occasions the file becomes corrupted, will not save or is the wrong submission type desired by the instructor whom explicitly suggested using Kaltura.
-##Seven Stages Examples
-	1. The goal of Kaltura is to provide a straightforward tool for students to use in the event they need to record their screen for an assignment or project that requires submission.
-	7. If we were to compare Kaltura to another free screen capture software such as Screen-cast-omatic it is easy to see that the latter is a more desirable software to use.
-##Potential users
-	1.	Essentially most users that we will be focusing on as a group are students that use Kaltura through ELC for assignment submission.
-
-
-# B. Analysis of Existing Solutions
-##Background
-1. While Kaltura is a good option for many due to it being open source with a reasonable cost of integration within the
-Learning Management Systems used by many universities, it is not the only option.
-
-##Other Options
-1. Dacast and Panopto are popular alternatives for Kaltura that users descibe as easier to use and more flexible.
-2. These media services allowing for features such as Panopto’s option for recording multiple inputs at once and Dacast’s Zoom meeting integration.
-3. Panopto also offers auto archiving of videos, allowing for the client to create and manage a library of videos from different users, which would
-allow a university to easily archive and maintain a library of instructional videos uploaded by its professors.
-4. Microsoft Streams also offers this feature along with an audio transcription feature that makes it easier to search for videos in the library, which would be very useful if integrated properly into a Learning Management System.
-
-##Advantages of Using Alternatives
-1. Kaltura's competitors offer notable advantages such as...
-2. better technical support for users, better audio quality and management, the inclusion of additional useful features, better video editing options, and others
-
-##The Cost of Using Alternatives
-1. Competitors of Kaltura including a far greater initial cost, greater problems with latency, and less intuitive available methods for the organization of uploaded videos into defined user access categories.
-2. Many of the alternatives for Kaltura also share its flaws, with Dacast suffering from inadequate technical support according to many of its reviews as well as high video latency
-
-##Potential Guidelines and Principles
-1. Potential Guidelines should include the promotion of universal usability with multi-layer interface design.
-2. They should allow for first time and beginner users to easily adapt to the use of the product.
-3. For educational use it is crucial that the video management system be integrated with the school's learning management system in a user-friendly manner. This is especially important because of the wide variety of socio-economic backgrounds from which the students may be coming. 
-4. It is therefore essential that these students,be allowed access to a video uploading system with amulti-layer interface design--one that is easy to adapt to.
-
-
-# C. Proposed Solution
-1. Our problem specifically lies in the fact that uploading media to eLC quizzes is to complicated and tedious. Kaltura, while still being complicated, has an upside of embedding their own media viewer/player so that uploaded media is viewable in the quiz page. **We propose as a solution that there be an option to embed the Kaltura media viewer and student be able to upload their media into it.** This essentially cuts out the middle man of having to upload your video through Kaltura and wait for it to process on their end before it shows up in your quiz. When media is added through Kaltura it requires a bunch of information along with it like a title, date, description, all of which are not necessary and can get time consuming if you have more than one to upload. These things are required because the media is saved to Kaltura's website and needs accompanying information. In our solution however, the video is coming directly from the student to eLC there no longer needs to be an external link to media and that info is no longer a part of the process.
+-->
 
