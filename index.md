@@ -54,6 +54,7 @@ allow a university to easily archive and maintain a library of instructional vid
 
 # C. Proposed Solution
 1. Our problem specifically lies in the fact that uploading media to eLC quizzes is to complicated and tedious. Kaltura, while still being complicated, has an upside of embedding their own media viewer/player so that uploaded media is viewable in the quiz page. **We propose as a solution that there be an option to embed the Kaltura media viewer and student be able to upload their media into it.** This essentially cuts out the middle man of having to upload your video through Kaltura and wait for it to process on their end before it shows up in your quiz. When media is added through Kaltura it requires a bunch of information along with it like a title, date, description, all of which are not necessary and can get time consuming if you have more than one to upload. These things are required because the media is saved to Kaltura's website and needs accompanying information. In our solution however, the video is coming directly from the student to eLC there no longer needs to be an external link to media and that info is no longer a part of the process.
+2. We will measure the success by evaluating the ease of use, simplicity of the interface, and the ability to upload media efficiently. 
 
 
 
