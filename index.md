@@ -124,5 +124,5 @@ student to later move up to higher layers as needed.
 
 
 # C. Proposed Solution
-
+1. Our problem specifically lies in the fact that uploading media to eLC quizzes is to complicated and tedious. Kaltura, while still being complicated, has an upside of embedding their own media viewer/player so that uploaded media is viewable in the quiz page. **We propose as a solution that there be an option to embed the Kaltura media viewer and student be able to upload their media into it.** This essentially cuts out the middle man of having to upload your video through Kaltura and wait for it to process on their end before it shows up in your quiz. Since the video is coming directly from the student to eLC there no longer needs to be an external link to media.
 
