@@ -3,6 +3,11 @@
 
 # A. Task / Problem Definition
 
+## The Issue at Hand
+1. We have defined the problem to be the complexity of Kaltura’s user experience, especially in regards to how it is integrated into Learning Management Systems.
+2. UGA provides a lot of information on how to upload media, which indicates that the process is not intuitive
+3. On many occasions the file becomes corrupted, will not save or is the wrong submission type desired by the instructor whom explicitly suggested using Kaltura.
+
 ## Affordances
 1. The Kaltura screen capture software affords the user the ability to capture their entire computer screen or a single window, while also recording video or audio only. 
 2. The software affords the user a ”smooth” transition from recording to submission for ease of use.
@@ -12,23 +17,25 @@
 5. The main signifier of Kaltura is the large red record button that signifies to the user that you are able to record a video.
 6. Another signifier would be the transition from recording, to submission indicated by Kaltura once you are done capturing.
 
-## The Issue at Hand
-1. The problem is that many times when using Kaltura the screen desired to be captured is not the one even present in the video.
-2. The largest issue that I and the group have personally faced is that when the video is done being recorded the submission process is a nightmare. On many occasions the file becomes corrupted, will not save or is the wrong submission type desired by the instructor whom explicitly suggested using Kaltura.
-
-## Seven Stages Examples
-1. The goal of Kaltura is to provide a straightforward tool for students to use in the event they need to record their screen for an assignment or project that requires submission.
-2. If we were to compare Kaltura to another free screen capture software such as Screen-cast-omatic it is easy to see that the latter is a more desirable software to use.
+## Seven Stages Example
+1. Goal: In a science class, college students are broken up into groups and asked to record a video explaining different topics. Their goal is to upload these videos during the class in time for the professor to review them on the board.
+2. Execution: 
+i. Plan: The Tremendous Trio considers making their video through the Kaltura media software or making it else where and posting it to Kaltura after.
+ii. Specify: They decide to take their video on a phone and upload it to the Kaltura submission after.
+iii. Perform: The group makes their video and downloads it on a laptop. One member logs into their elc and opens the discussion page. They are presented with many options to insert files and are confused whether to pick "Insert Link", "Enter Embedded Code", or "My Media". The teacher tells the class to select my media. Again the group is confused. There are many input options and they are not sure which are required. They do not upload the video in time. 
+3.Evaluation:
+i. Perceive: The majority of the class either does not upload their video in time, or does not do it correctly.
+ii. Interpret: Because of the complicated software, a simple task is made much harder and it takes more time. 
+iii. Compare: The group agrees that they did not meet their goal.
 
 ## Potential users
-1. Essentially most users that we will be focusing on as a group are students that use Kaltura through ELC for assignment submission.
+1. Many other learning managements systems (LMS) use Kaltura as well including d2l and Canvas. Therefore, the stakeholders are all students and instructors who use Kaltura through a LMS.
 
 
 # B. Analysis of Existing Solutions
 
 ## Background
-1. While Kaltura is a good option for many due to it being open source with a reasonable cost of integration within the
-Learning Management Systems used by many universities, it is not the only option.
+1. Kaltura is the only paid video streaming platform provided to students and instructors. Although there are other free options available (YouTube, Facebook Live, etc), they possess disadvantages such as problematic licensing agreements, lack of technical support, and insertion of advertising. Kaltura is considered a good option in regard to paid services due to it being open source with a reasonable cost of integration within the Learning Management Systems used by many school systems.
 
 ## Other Options
 1. Dacast and Panopto are popular alternatives for Kaltura that users descibe as easier to use and more flexible.
