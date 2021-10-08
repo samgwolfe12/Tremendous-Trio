@@ -7,20 +7,25 @@
 1. The Kaltura screen capture software affords the user the ability to capture their entire computer screen or a single window, while also recording video or audio only. 
 2. The software affords the user a ”smooth” transition from recording to submission for ease of use.
 3. The software affords the user an easy way of attaching external files (pictures, videos, etc.) to the correct assessment on eLC
+
 ## Signifiers
-1. The main signifier of Kaltura is the large red record button that signifies to the user that you are able to record a video.
-2. Another signifier would be the transition from recording, to submission indicated by Kaltura once you are done capturing.
+5. The main signifier of Kaltura is the large red record button that signifies to the user that you are able to record a video.
+6. Another signifier would be the transition from recording, to submission indicated by Kaltura once you are done capturing.
+
 ## The Issue at Hand
 1. The problem is that many times when using Kaltura the screen desired to be captured is not the one even present in the video.
 2. The largest issue that I and the group have personally faced is that when the video is done being recorded the submission process is a nightmare. On many occasions the file becomes corrupted, will not save or is the wrong submission type desired by the instructor whom explicitly suggested using Kaltura.
+
 ## Seven Stages Examples
 1. The goal of Kaltura is to provide a straightforward tool for students to use in the event they need to record their screen for an assignment or project that requires submission.
 2. If we were to compare Kaltura to another free screen capture software such as Screen-cast-omatic it is easy to see that the latter is a more desirable software to use.
+
 ## Potential users
 1. Essentially most users that we will be focusing on as a group are students that use Kaltura through ELC for assignment submission.
 
 
 # B. Analysis of Existing Solutions
+
 ## Background
 1. While Kaltura is a good option for many due to it being open source with a reasonable cost of integration within the
 Learning Management Systems used by many universities, it is not the only option.
