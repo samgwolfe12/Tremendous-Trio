@@ -1,8 +1,9 @@
 
 # Tremendous Trio
 
-[Milestone 2](https://samgwolfe12.github.io/Tremendous-Trio/milestone2.html)
-[Milestone 3](https://samgwolfe12.github.io/Tremendous-Trio/milestone3.html)
+[Milestone 2](https://samgwolfe12.github.io/Tremendous-Trio/milestone2.md) 
+<br>
+[Milestone 3](https://samgwolfe12.github.io/Tremendous-Trio/milestone3.md)
 
 
 <!--/*
