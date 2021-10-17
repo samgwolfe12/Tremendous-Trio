@@ -1,7 +1,7 @@
 
 # Tremendous Trio
 
-[link](milestone2.html)
+[link](https://samgwolfe12.github.io/Tremendous-Trio/milestone1)
 
 
 <!--
