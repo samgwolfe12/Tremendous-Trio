@@ -1,7 +1,7 @@
 
 # Tremendous Trio
 
-[link]milestone2.html
+[link](milestone2.html)
 
 
 <!--
