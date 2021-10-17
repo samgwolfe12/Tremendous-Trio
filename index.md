@@ -3,7 +3,7 @@
 
 [Milestone 2](milestone2.md) 
 <br>
-[Milestone 3](https://samgwolfe12.github.io/Tremendous-Trio/milestone3.md)
+[Milestone 3](milestone3.md)
 
 
 <!--/*
