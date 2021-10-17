@@ -1,1 +1,39 @@
-#Milestone 3
+# Milestone 3
+
+## A. User Experience Requirements
+
+- Decompose your proposed solution from Milestone 2 into related user stories. It is highly recommended that you organize your user stories into a hierarchy based on related activities and tasks.
+
+- Which user stories are most relevant to your proposed solution and why? It could be all of them or perhaps only a few. Whatever you pick, please provide a strong justification with supporting evidence.
+
+## B. Ideation and Preliminary Designs
+
+- For each of the relevant user stories you identified and justified in (A), generate numerous ideas for alternative design solutions that could be used to tell that story, then pick and describe your top two or three ideas for that story.
+
+- Clarification: This step is instructing you to pick two or three top ideas from among the numerous ideas you generated for each relevant user story. That’s two or three ideas per story.
+
+- Note: Although this step only asks for your top two or three ideas, you should include something in your deliverables to illustrate that you did generate numerous ideas, as instructed.
+
+- Suggestion: Take a screenshot of your group’s idea notes (e.g., your sticky notes, Mural canvas, Google Jam board, etc.) after each group ideation session and include that screenshot in your deliverable report before identifying your top picks.
+
+- For each relevant user story, produce a low-fidelity wireframe for each top idea with enough artboards (i.e., frames, pages, screens, etc.) that a potential user might be able to provide useful feedback. Each wireframe should be presented in way that viewers can see all artboards at once (e.g., an image with all the artboards or an embedded canvas) and individually (e.g., links to images of the individual artboards). Each wireframe should also include some justification for why some design decisions were made.
+
+- Suggestion: You may find it easier to think of this step as creating low-fidelity comic-like strips for each of your top ideas where each “panel” in the comic strip is an artboard that illustrates what the experience looks like for a particular part of the story. Consider the user story “as a user, I want to filter the list so that I can focus on a particular kind of item.” Here is a small example that illustrates one idea for how the user might live out that story:
+
+## C. Detailed Designs
+
+- For each of the relevant user stories you identified and justified in (A), pick what you think is the best design alternative you wireframed in (B), then produce a higher fidelity mockup of the wireframe. Each mockup should:
+
+- be presented in a manner consistent with your wireframes in (B);
+
+- include a justification for why you think its the best design; and
+
+- include a justification for why design decisions were made.
+
+- You are expected to use use a software tool (e.g., Figma) to create your mockups. For each mockup, you must provide a download link for the source file in addition to one or more exported PNG files.
+
+## D. Summary Video
+
+- Create a 5-10 minute video that summarizes the information in parts (A), (B), and (C). The creation of this video should involve all team members, and the video itself should contain credits at the end describing who did what.
+
+- You should provide the link to the video in your milestone deliverable report; if your report is an HTML page, then you may embed the video into the page in addition to providing the link.
