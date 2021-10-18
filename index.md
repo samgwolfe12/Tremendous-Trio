@@ -1,6 +1,8 @@
 
 # Tremendous Trio
 
+## Group members: Sam Wolfe, Nick Hobbs, Farian Chowdrey, Joseph Goddard
+
 ## Our Problem
 Elc uses Kaltura for its online streaming platform. Our group finds the process of uploading media into elc through Kaltura is difficult and not intuitive. We believe that other students and instructors will agree. We have defined the problem to be the complexity of Kaltura’s user experience, especially in regards to how it is integrated into Learning Management Systems.
 
