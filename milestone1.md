@@ -23,3 +23,5 @@ UGA provides a lot of information on how to upload media, which indicates that t
 - https://www.dacast.com/blog/comparing-kaltura-video-platform-competitors-wowza-and-dacast/
 
 - https://www.getapp.com/website-ecommerce-software/a/kaltura/reviews/
+
+[Back to Home](index.md)
