@@ -37,3 +37,5 @@
 - Create a 5-10 minute video that summarizes the information in parts (A), (B), and (C). The creation of this video should involve all team members, and the video itself should contain credits at the end describing who did what.
 
 - You should provide the link to the video in your milestone deliverable report; if your report is an HTML page, then you may embed the video into the page in addition to providing the link.
+
+[Back to Home](index.md)
