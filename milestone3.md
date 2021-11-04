@@ -25,7 +25,7 @@ Further Justification: We chose to focus on the usage of Kaltura through eLc for
 - Suggestion: Take a screenshot of your group’s idea notes (e.g., your sticky notes, Mural canvas, Google Jam board, etc.) after each group ideation session and include that screenshot in your deliverable report before identifying your top picks.
 -->
 ### Group Ideation
-<img src="jamboard.png" alt="Jamboard" width="600" height="500">
+<img src="jamboard.png" alt="Jamboard">
 
 ### Our Top Picks
 User Story: As a college student, I want to upload an image into a quiz on eLc because I need to show my work.
