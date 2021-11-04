@@ -6,6 +6,10 @@
 
 - Which user stories are most relevant to your proposed solution and why? It could be all of them or perhaps only a few. Whatever you pick, please provide a strong justification with supporting evidence.
 
+### User Story Heirarchy and Justifications
+
+<img src="user stories.png" alt="User story heirarchy" width="400" height="300">
+
 ## B. Ideation and Preliminary Designs
 
 - For each of the relevant user stories you identified and justified in (A), generate numerous ideas for alternative design solutions that could be used to tell that story, then pick and describe your top two or three ideas for that story.
