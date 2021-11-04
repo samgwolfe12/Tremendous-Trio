@@ -15,6 +15,7 @@ Further Justification: We chose to focus on the usage of Kaltura through eLc for
 
 ## B. Ideation and Preliminary Designs
 
+<!--
 - For each of the relevant user stories you identified and justified in (A), generate numerous ideas for alternative design solutions that could be used to tell that story, then pick and describe your top two or three ideas for that story.
 
 - Clarification: This step is instructing you to pick two or three top ideas from among the numerous ideas you generated for each relevant user story. That’s two or three ideas per story.
@@ -22,7 +23,32 @@ Further Justification: We chose to focus on the usage of Kaltura through eLc for
 - Note: Although this step only asks for your top two or three ideas, you should include something in your deliverables to illustrate that you did generate numerous ideas, as instructed.
 
 - Suggestion: Take a screenshot of your group’s idea notes (e.g., your sticky notes, Mural canvas, Google Jam board, etc.) after each group ideation session and include that screenshot in your deliverable report before identifying your top picks.
+-->
+### Group Ideation
+<img src="jamboard.png" alt="Jamboard" width="600" height="500">
 
+### Our Top Picks
+User Story: As a college student, I want to upload an image into a quiz on eLc because I need to show my work.
+- 1
+- 2
+- 3
+
+User Story: As a college student, I want to record and upload a video for my homework submission because the assignment requires it.
+- 1
+- 2
+- 3
+
+User Story: As an instructor, I want to post a video with captions on eLc because I want all my students to have access to it.
+- 1
+- 2
+- 3
+
+User Story: As a college student, I want to record and upload a video for my homework submission because the assignment requires it.
+- 1
+- 2
+- 3
+
+### Wireframes
 - For each relevant user story, produce a low-fidelity wireframe for each top idea with enough artboards (i.e., frames, pages, screens, etc.) that a potential user might be able to provide useful feedback. Each wireframe should be presented in way that viewers can see all artboards at once (e.g., an image with all the artboards or an embedded canvas) and individually (e.g., links to images of the individual artboards). Each wireframe should also include some justification for why some design decisions were made.
 
 - Suggestion: You may find it easier to think of this step as creating low-fidelity comic-like strips for each of your top ideas where each “panel” in the comic strip is an artboard that illustrates what the experience looks like for a particular part of the story. Consider the user story “as a user, I want to filter the list so that I can focus on a particular kind of item.” Here is a small example that illustrates one idea for how the user might live out that story:
