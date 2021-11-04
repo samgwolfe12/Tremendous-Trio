@@ -1,14 +1,17 @@
 # Milestone 3
 
 ## A. User Experience Requirements
-
+<!--
 - Decompose your proposed solution from Milestone 2 into related user stories. It is highly recommended that you organize your user stories into a hierarchy based on related activities and tasks.
 
 - Which user stories are most relevant to your proposed solution and why? It could be all of them or perhaps only a few. Whatever you pick, please provide a strong justification with supporting evidence.
+-->
 
 ### User Story Heirarchy and Justifications
 
 <img src="user stories.png" alt="User story heirarchy" width="400" height="300">
+
+Further Justification: We chose to focus on the usage of Kaltura through eLc for college students and instructors because of our experiences interacting with it in this environment.
 
 ## B. Ideation and Preliminary Designs
 
