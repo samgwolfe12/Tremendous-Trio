@@ -8,13 +8,14 @@
 -->
 
 ### User Story Heirarchy and Justifications
-"Reviewers note that the user interface is “clumsy,” that “there are a number of illogical omissions in their product capabilities,” and that some settings are “extremely difficult to customize.” These drawbacks are clear in testing." 
+"Reviewers note that the user interface is 'clumsy,' that 'there are a number of illogical omissions in their product capabilities,' and that some settings are 'extremely difficult to customize.' These drawbacks are clear in testing." 
 <a href="https://www.dacast.com/blog/comparing-kaltura-video-platform-competitors-wowza-and-dacast/">Link to Source</a>
 
 Online reviews of Kaltura state that users find the interface complicated to use. To exemplify this we selected use cases where extra steps or a cluttered interface make Kaltura more difficult to use. Our goal is to streamline the process of uploading and viewing media so that users can experience the benefits of using a paid video platform.
 Note -  We chose to focus on the usage of Kaltura through eLc for college students and instructors because of our experiences interacting with it in this environment.
 
-<img src="user stories.png" alt="User story heirarchy" width="400" height="300">
+<img src="userstories.png" alt="User story heirarchy">
+A further breakdown of these user stories is presented in the video below.
 
 ## B. Ideation and Preliminary Designs
 
