@@ -81,6 +81,8 @@ User Story: As a college student, I want to record and upload a video for my hom
 
 - include a justification for why design decisions were made.
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D47%253A32%26scaling%3Dcontain%26page-id%3D0%253A1%26starting-point-node-id%3D47%253A32%26show-proto-sidebar%3D1" allowfullscreen></iframe>
+
 - You are expected to use use a software tool (e.g., Figma) to create your mockups. For each mockup, you must provide a download link for the source file in addition to one or more exported PNG files.
 
 ## D. Summary Video
