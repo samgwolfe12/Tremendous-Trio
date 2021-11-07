@@ -65,30 +65,30 @@ Wireframe:
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D51%253A75%26starting-point-node-id%3D51%3D1%26scaling%3Dcontain" allowfullscreen></iframe>
 
 <b>User Story: As a college student, I want to record and upload a video for my homework submission because the assignment requires it.</b>
-- 1
-- Wireframe:
+- Idea 1: Add a button in the add file menu to open Kaltura Capture and record video for assignment directly in the assignment submission page.<br>
+Wireframe:
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D123%253A257%26starting-point-node-id%3D123%3D1%26scaling%3Dcontain" allowfullscreen></iframe>
 
-- 2
-- Wireframe:
+- Idea 2: Make Kaltura capture run throught the browser so it doesn’t have to open an external app on the user computer.<br>\
+Wireframe:
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D123%253A258%26starting-point-node-id%3D123%3D1%26scaling%3Dcontain" allowfullscreen></iframe>
 
-- 3
-- Wireframe:
+- Idea 3: Add a Kaltura capture button in the comments section of the assignemnt submission. This allows the user to not only capture the video from the assignemnt submission page but also embed it to the page for ease of viewing.<br>
+Wireframe:
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D123%253A259%26starting-point-node-id%3D123%3D1%26scaling%3Dcontain" allowfullscreen></iframe>
 
 
 <b>User Story: As a college student, I want to record and upload a video for my homework submission because the assignment requires it.</b>
-- 1
-- Wireframe:
+- Idea 1: Have a kaltura video player embeded on the assignemnts view submission page for each student when there is a video file submitted. This player will automatically add the media that is uplaoded so that videos can be viewed without having to download each submission.<br>
+Wireframe:
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D123%253A256%26starting-point-node-id%3D123%3D1%26scaling%3Dcontain" allowfullscreen></iframe>
 
-- 2
-- Wireframe:
+- Idea 2: Add a button on the assignment view page that says view through kaltura. This button will take the instructor to a page with a kaltura viewer on it and a button to scroll through each students submissions and the player will update witht the video from each submisson. This will prevent Instructors from having to download videos to view them.<br>
+Wireframe:
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D151%253A311%26starting-point-node-id%3D151%3D1%26scaling%3Dcontain" allowfullscreen></iframe>
 
