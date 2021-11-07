@@ -95,12 +95,12 @@ Wireframe:
 -->
 ### User Story 1 - High Fidelity Mockup
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D47%253A32%26scaling%3Dcontain%26page-id%3D0%253A1%26starting-point-node-id%3D47" allowfullscreen></iframe><br>
-- We chose this design because...
-- Design Decisions: In order to declutter the interfece, we wanted to use as few steps as possible to insert media without limiting user options.
+- We chose this design because it utalizes a Kaltura widget intead of a file browser. This solution allows you to drag and drop files into the widget or browse for a file. This presents the user with options that they are familiar with.
+- Design Decisions: In order to declutter the interfece, we wanted to use as few steps as possible to insert media without limiting user options. The "Embed Media" button shows the user that there is an alternative option to simply inserting a file. Having the Kaltura widget appear within the submission box gives the user a preview of what their embedded media will look like. We have taken away the "My media" page to eliminate extra steps and options that are not necessary.
 
 
 ### User Story 2 - High Fidelity Mockup
-- We chose this design because...
+- We chose this design because 
 - Design Decisions: One of the main advantages that Kaltura's competitors have is that they are easier to set up. For this reason we wanted our solution to showcase an option that is simpler to use and set up. <a href="https://www.g2.com/products/kaltura-video-cloud/competitors/alternatives">Link to Source</a>
 
 
