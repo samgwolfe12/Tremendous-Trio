@@ -8,7 +8,7 @@
 -->
 
 ### User Story Heirarchy and Justifications
-We chose to focus on the usage of Kaltura through eLc for college students and instructors because of our experiences interacting with it in this environment. Research shows that 52% of colleges use Kaltura as their Video Platform (<a href="https://www.streamingmedia.com/Articles/News/Online-Video-News/52-of-Colleges-and-Universities-Use-a-Video-Solution-Kaltura-112291.aspx?utm_content=buffer8bcf5&utm_medium=social&utm_source=plus.google.com&utm_campaign=buffer">Link to Source</a>. This high percentage reflects a large amount of college students and instructors who use Kaltura. For these reasons we have separated our user stories into student and instructor groups.
+We chose to focus on the usage of Kaltura through eLc for college students and instructors because of our experiences interacting with it in this environment. Research shows that 52% of colleges use Kaltura as their Video Platform (<a href="https://www.streamingmedia.com/Articles/News/Online-Video-News/52-of-Colleges-and-Universities-Use-a-Video-Solution-Kaltura-112291.aspx?utm_content=buffer8bcf5&utm_medium=social&utm_source=plus.google.com&utm_campaign=buffer">Link to Source</a>). This high percentage reflects a large amount of college students and instructors who use Kaltura. For these reasons we have separated our user stories into student and instructor groups.
 
 ### College Student User Stories: 
 - As a student I want to embed an image into a quiz because I am required to show my work. 
@@ -16,6 +16,7 @@ We chose to focus on the usage of Kaltura through eLc for college students and i
 - As a student I want to record a video using Kaltura capture because I want to use the screen recording feature.
 - As a student I want to use Kaltura to add captions to my video because I want all my student peers are able to undertand it. 
 - As a student I want to embed media into a discussion because I found an interesting picture to explain my comment.
+
 ### Instructor User Stories:
 - As an instructor I want to embed a video into the content page because I want my students to rewatch my lectures.
 - As an instructor I want to embed an image into a quiz because I want my students to identify a picture.
@@ -30,7 +31,7 @@ Online reviews of Kaltura state that users find the interface complicated to use
 We selected felt that two student user stories and one instructor user story could be used to exemplify the main problems regarding Kaltura. <br>
 
 Selected User Stories: 
-<img src="userstories.png" alt="User story heirarchy"><br>
+<img src="userstories.png" alt="User story heirarchy" width="400" heeight="550"><br>
 A further breakdown of these user stories is presented in the video below.
 
 ## B. Ideation and Preliminary Designs
