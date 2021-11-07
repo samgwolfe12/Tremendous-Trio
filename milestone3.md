@@ -101,12 +101,14 @@ A further breakdown of these user stories is presented in the video below.
 - You are expected to use use a software tool (e.g., Figma) to create your mockups. For each mockup, you must provide a download link for the source file in addition to one or more exported PNG files.
 -->
 ### User Story 1 - High Fidelity Mockup
+- Idea # 2: On the page of the quiz question have a button to insert a kaltura viewer that is blank. The user can then drag and drop their media or select a file from their computer directly to be uploaded into the viewer.
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D47%253A32%26scaling%3Dcontain%26page-id%3D0%253A1%26starting-point-node-id%3D47" allowfullscreen></iframe><br>
 - We chose this design because it cuts the most steps out of the process without limiting options or taking away from the user experience. We think the addition of the Kaltura widget adds to the user experience while still eliminating the process of going through the Kaltura "My Media" pop up.
 - Design Decisions: In order to declutter the interfece, we wanted to use as few steps as possible to insert media without limiting user options. The "Drag and Drop" option available in the Kaltura widget improves user experience and the overall look of the widget (<a href="https://medium.com/featurepreneur/how-to-create-drag-drop-file-upload-311e4ffeb56f">Link to source</a>). Having the widget appear within the submission box allows the user to preview what the embedded media will look like. By taking out the "Insert Stuff" and "My Media" pop ups we have eliminated two unnecessary pages.
 
 
 ### User Story 2 - High Fidelity Mockup
+- Idea #3: Add a Kaltura capture button in the comments section of the assignemnt submission. This allows the user to not only capture the video from the assignemnt submission page but also embed it to the page for ease of viewing.
 - We chose this design because...
 - Design Decisions: One of the main advantages that Kaltura's competitors have is that they are easier to set up. For this reason we wanted our solution to showcase an option that is simpler to use and set up. <a href="https://www.g2.com/products/kaltura-video-cloud/competitors/alternatives">Link to Source</a>
 
