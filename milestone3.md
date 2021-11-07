@@ -8,13 +8,29 @@
 -->
 
 ### User Story Heirarchy and Justifications
-"Reviewers note that the user interface is 'clumsy,' that 'there are a number of illogical omissions in their product capabilities,' and that some settings are 'extremely difficult to customize.' These drawbacks are clear in testing." 
+We chose to focus on the usage of Kaltura through eLc for college students and instructors because of our experiences interacting with it in this environment. Research shows that 52% of colleges use Kaltura as their Video Platform (<a href="https://www.streamingmedia.com/Articles/News/Online-Video-News/52-of-Colleges-and-Universities-Use-a-Video-Solution-Kaltura-112291.aspx?utm_content=buffer8bcf5&utm_medium=social&utm_source=plus.google.com&utm_campaign=buffer">Link to Source</a>. This high percentage reflects a large amount of college students and instructors who use Kaltura. For these reasons we have separated our user stories into student and instructor groups.
+
+### College Student User Stories: 
+- As a student I want to embed an image into a quiz because I am required to show my work. 
+- As a student I want to embed a video that I have already recorded into a quiz because I need explain a topic. 
+- As a student I want to record a video using Kaltura capture because I want to use the screen recording feature.
+- As a student I want to use Kaltura to add captions to my video because I want all my student peers are able to undertand it. 
+- As a student I want to embed media into a discussion because I found an interesting picture to explain my comment.
+### Instructor User Stories:
+- As an instructor I want to embed a video into the content page because I want my students to rewatch my lectures.
+- As an instructor I want to embed an image into a quiz because I want my students to identify a picture.
+- As an instructor I want to view all the quiz submissions my students submitted because I want to see the pictures of the work they uploaded.
+- As an instructor I want to grade all the assignment submissions because I want to watch the videos they submitted
+
+### Most Relevant User Stories:
+<i>"Reviewers note that the user interface is 'clumsy,' that 'there are a number of illogical omissions in their product capabilities,' and that some settings are 'extremely difficult to customize.' These drawbacks are clear in testing." </i><br>
 <a href="https://www.dacast.com/blog/comparing-kaltura-video-platform-competitors-wowza-and-dacast/">Link to Source</a>
 
-Online reviews of Kaltura state that users find the interface complicated to use. To exemplify this we selected use cases where extra steps or a cluttered interface make Kaltura more difficult to use. Our goal is to streamline the process of uploading and viewing media so that users can experience the benefits of using a paid video platform.
-Note -  We chose to focus on the usage of Kaltura through eLc for college students and instructors because of our experiences interacting with it in this environment.
+Online reviews of Kaltura state that users find the interface complicated to use. To exemplify this we selected use cases where extra steps or a cluttered interface make Kaltura more difficult to use. Our goal is to streamline the process of uploading and viewing media so that users can experience the benefits of using a paid video platform.<br>
+We selected felt that two student user stories and one instructor user story could be used to exemplify the main problems regarding Kaltura. <br>
 
-<img src="userstories.png" alt="User story heirarchy">
+Selected User Stories: 
+<img src="userstories.png" alt="User story heirarchy"><br>
 A further breakdown of these user stories is presented in the video below.
 
 ## B. Ideation and Preliminary Designs
@@ -37,12 +53,12 @@ A further breakdown of these user stories is presented in the video below.
 
 ### Our Top Picks
 User Story: As a college student, I want to upload an image into a quiz on eLc because I need to show my work.
-- Idea 1: Add a embed media at the bottom of the question. This embed media button will allow you to upload media from your computer to eLc directly and use Kalturas media viewer so that it is embeded to the question. This effectively removes the requirement of Kalturas tedious upload process.
-- Wireframe:
+- Idea 1: Add a embed media at the bottom of the question. This embed media button will allow you to upload media from your computer to eLc directly and use Kalturas media viewer so that it is embeded to the question. This effectively removes the requirement of Kalturas tedious upload process.<br>
+Wireframe:
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D51%253A44%26starting-point-node-id%3D51%3D1%26scaling%3Dcontain" allowfullscreen></iframe>
 
-- Idea 2: On the page of the quiz question have a button to insert a kaltura viewer that is blank. The user can then drag and drop their media or select a file from their computer directly to be uploaded into the viewer. 
-- Wireframe:
+- Idea 2: On the page of the quiz question have a button to insert a kaltura viewer that is blank. The user can then drag and drop their media or select a file from their computer directly to be uploaded into the viewer. <br>
+Wireframe:
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D51%253A75%26starting-point-node-id%3D51%3D1%26scaling%3Dcontain" allowfullscreen></iframe>
 
 User Story: As a college student, I want to record and upload a video for my homework submission because the assignment requires it.
