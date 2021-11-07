@@ -105,8 +105,6 @@ Wireframe:
 
 
 ### User Story 3 - High Fidelity Mockup
-
-<b>Why this design?</b><br>
 - We chose this design because...
 - Design Decisions:
 
