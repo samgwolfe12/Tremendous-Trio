@@ -80,8 +80,7 @@ Wireframe:
 - Wireframe:
 
 
-
-
+<br>
 ## C. Detailed Designs
 <!--
 - For each of the relevant user stories you identified and justified in (A), pick what you think is the best design alternative you wireframed in (B), then produce a higher fidelity mockup of the wireframe. Each mockup should:
@@ -98,14 +97,17 @@ Wireframe:
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D47%253A32%26scaling%3Dcontain%26page-id%3D0%253A1%26starting-point-node-id%3D47" allowfullscreen></iframe><br>
 <b>Why this design?</b><br>
 - We chose this design because...
-<br><b>Design Decisions:</b><br>
+<br>
+<b>Design Decisions:</b><br>
 - In order to declutter the interfece, we wanted to use as few steps as possible to insert media without limiting user options.
- 
+
+
 ### User Story 2 - High Fidelity Mockup
 
 <b>Why this design?</b><br>
 - We chose this design because...
-<br><b>Design Decisions:</b><br>
+<br>
+<b>Design Decisions:</b><br>
 - One of the main advantages that Kaltura's competitors have is that they are easier to set up. For this reason we wanted our solution to showcase an option that is simpler to use and set up. <a href="https://www.g2.com/products/kaltura-video-cloud/competitors/alternatives">Link to Source</a>
 
 
@@ -113,7 +115,8 @@ Wireframe:
 
 <b>Why this design?</b><br>
 - We chose this design because...
-<br><b>Design Decisions:</b><br>
+<br>
+<b>Design Decisions:</b><br>
 ## D. Summary Video
 <!--
 - Create a 5-10 minute video that summarizes the information in parts (A), (B), and (C). The creation of this video should involve all team members, and the video itself should contain credits at the end describing who did what.
