@@ -53,7 +53,7 @@ A further breakdown of these user stories is presented in the video below.
 <img src="jamboard.png" alt="Jamboard">
 
 ### Our Top Picks
-User Story: As a college student, I want to upload an image into a quiz on eLc because I need to show my work.
+<b>User Story: As a college student, I want to upload an image into a quiz on eLc because I need to show my work.</b>
 - Idea 1: Add a embed media at the bottom of the question. This embed media button will allow you to upload media from your computer to eLc directly and use Kalturas media viewer so that it is embeded to the question. This effectively removes the requirement of Kalturas tedious upload process.<br>
 Wireframe:
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D51%253A44%26starting-point-node-id%3D51%3D1%26scaling%3Dcontain" allowfullscreen></iframe>
@@ -62,7 +62,7 @@ Wireframe:
 Wireframe:
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D51%253A75%26starting-point-node-id%3D51%3D1%26scaling%3Dcontain" allowfullscreen></iframe>
 
-User Story: As a college student, I want to record and upload a video for my homework submission because the assignment requires it.
+<b>User Story: As a college student, I want to record and upload a video for my homework submission because the assignment requires it.</b>
 - 1
 - Wireframe:
 - 2
@@ -71,7 +71,7 @@ User Story: As a college student, I want to record and upload a video for my hom
 - Wireframe:
 
 
-User Story: As a college student, I want to record and upload a video for my homework submission because the assignment requires it.
+<b>User Story: As a college student, I want to record and upload a video for my homework submission because the assignment requires it.</b>
 - 1
 - Wireframe:
 - 2
@@ -83,7 +83,7 @@ User Story: As a college student, I want to record and upload a video for my hom
 
 
 ## C. Detailed Designs
-
+<!--
 - For each of the relevant user stories you identified and justified in (A), pick what you think is the best design alternative you wireframed in (B), then produce a higher fidelity mockup of the wireframe. Each mockup should:
 
 - be presented in a manner consistent with your wireframes in (B);
@@ -93,19 +93,19 @@ User Story: As a college student, I want to record and upload a video for my hom
 - include a justification for why design decisions were made.
 
 - You are expected to use use a software tool (e.g., Figma) to create your mockups. For each mockup, you must provide a download link for the source file in addition to one or more exported PNG files.
-
+-->
 ### User Story 1 - High Fidelity Mockup
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D47%253A32%26scaling%3Dcontain%26page-id%3D0%253A1%26starting-point-node-id%3D47" allowfullscreen></iframe><br>
 <b>Why this design?</b><br>
 - We chose this design because...
-<b>Design Decisions:</b><br>
+<br><b>Design Decisions:</b><br>
 - In order to declutter the interfece, we wanted to use as few steps as possible to insert media without limiting user options.
  
 ### User Story 2 - High Fidelity Mockup
 
 <b>Why this design?</b><br>
 - We chose this design because...
-<b>Design Decisions:</b><br>
+<br><b>Design Decisions:</b><br>
 - One of the main advantages that Kaltura's competitors have is that they are easier to set up. For this reason we wanted our solution to showcase an option that is simpler to use and set up. <a href="https://www.g2.com/products/kaltura-video-cloud/competitors/alternatives">Link to Source</a>
 
 
@@ -113,11 +113,12 @@ User Story: As a college student, I want to record and upload a video for my hom
 
 <b>Why this design?</b><br>
 - We chose this design because...
-<b>Design Decisions:</b><br>
+<br><b>Design Decisions:</b><br>
 ## D. Summary Video
-
+<!--
 - Create a 5-10 minute video that summarizes the information in parts (A), (B), and (C). The creation of this video should involve all team members, and the video itself should contain credits at the end describing who did what.
 
 - You should provide the link to the video in your milestone deliverable report; if your report is an HTML page, then you may embed the video into the page in addition to providing the link.
+-->
 
 [Back to Home](index.md)
