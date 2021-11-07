@@ -29,8 +29,8 @@ We chose to focus on the usage of Kaltura through eLc for college students and i
 
 Online reviews of Kaltura state that users find the interface complicated to use. To exemplify this we selected use cases where extra steps or a cluttered interface make Kaltura more difficult to use. Our goal is to streamline the process of uploading and viewing media so that users can experience the benefits of using a paid video platform.<br>
 We selected felt that two student user stories and one instructor user story could be used to exemplify the main problems regarding Kaltura. <br>
-
-Selected User Stories: 
+<br>
+Selected User Stories: <br>
 <img src="userstories.png" alt="User story heirarchy" width="400" heeight="550"><br>
 A further breakdown of these user stories is presented in the video below.
 
