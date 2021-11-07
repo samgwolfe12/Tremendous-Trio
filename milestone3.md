@@ -53,7 +53,7 @@ A further breakdown of these user stories is presented in the video below.
 <img src="ideation.png" alt="Jamboard">
 
 ### Our Top Picks
-#### <b>User Story: As a college student, I want to upload an image into a quiz on eLc because I need to show my work.</b>
+#### User Story 1: As a college student, I want to upload an image into a quiz on eLc because I need to show my work.
 - Idea 1: Add a embed media at the bottom of the question. This embed media button will allow you to upload media from your computer to eLc directly and use Kalturas media viewer so that it is embeded to the question. This effectively removes the requirement of Kalturas tedious upload process.<br>
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D51%253A44%26starting-point-node-id%3D51%3D1%26scaling%3Dcontain" allowfullscreen></iframe>
@@ -62,7 +62,7 @@ A further breakdown of these user stories is presented in the video below.
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D51%253A75%26starting-point-node-id%3D51%3D1%26scaling%3Dcontain" allowfullscreen></iframe>
 
-<b>User Story: As a college student, I want to record and upload a video for my homework submission because the assignment requires it.</b>
+#### User Story 2: As a college student, I want to record and upload a video for my homework submission because the assignment requires it.
 - Idea 1: Add a button in the add file menu to open Kaltura Capture and record video for assignment directly in the assignment submission page.<br>
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D123%253A257%26starting-point-node-id%3D123%3D1%26scaling%3Dcontain" allowfullscreen></iframe>
@@ -76,7 +76,7 @@ A further breakdown of these user stories is presented in the video below.
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D123%253A259%26starting-point-node-id%3D123%3D1%26scaling%3Dcontain" allowfullscreen></iframe>
 
 
-<b>User Story: As a college student, I want to record and upload a video for my homework submission because the assignment requires it.</b>
+#### User Story 3: As a college student, I want to record and upload a video for my homework submission because the assignment requires it.
 - Idea 1: Have a kaltura video player embeded on the assignemnts view submission page for each student when there is a video file submitted. This player will automatically add the media that is uplaoded so that videos can be viewed without having to download each submission.<br>
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D123%253A256%26starting-point-node-id%3D123%3D1%26scaling%3Dcontain" allowfullscreen></iframe>
@@ -102,8 +102,8 @@ A further breakdown of these user stories is presented in the video below.
 -->
 ### User Story 1 - High Fidelity Mockup
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D47%253A32%26scaling%3Dcontain%26page-id%3D0%253A1%26starting-point-node-id%3D47" allowfullscreen></iframe><br>
-- We chose this design because...
-- Design Decisions: In order to declutter the interfece, we wanted to use as few steps as possible to insert media without limiting user options.
+- We chose this design because it cuts the most steps out of the process without limiting options or taking away from the user experience. We think the addition of the Kaltura widget adds to the user experience while still eliminating the process of going through the Kaltura "My Media" pop up.
+- Design Decisions: In order to declutter the interfece, we wanted to use as few steps as possible to insert media without limiting user options. The "Drag and Drop" option available in the Kaltura widget improves user experience and the overall look of the widget (<a href="https://medium.com/featurepreneur/how-to-create-drag-drop-file-upload-311e4ffeb56f">Link to source</a>). Having the widget appear within the submission box allows the user to preview what the embedded media will look like. By taking out the "Insert Stuff" and "My Media" pop ups we have eliminated two unnecessary pages.
 
 
 ### User Story 2 - High Fidelity Mockup
