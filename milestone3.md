@@ -50,7 +50,7 @@ A further breakdown of these user stories is presented in the video below.
 - Suggestion: You may find it easier to think of this step as creating low-fidelity comic-like strips for each of your top ideas where each “panel” in the comic strip is an artboard that illustrates what the experience looks like for a particular part of the story. Consider the user story “as a user, I want to filter the list so that I can focus on a particular kind of item.” Here is a small example that illustrates one idea for how the user might live out that story:
 -->
 ### Group Ideation
-<img src="jamboard.png" alt="Jamboard">
+<img src="ideation.png" alt="Jamboard">
 
 ### Our Top Picks
 <b>User Story: As a college student, I want to upload an image into a quiz on eLc because I need to show my work.</b>
