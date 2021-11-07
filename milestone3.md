@@ -37,11 +37,11 @@ A further breakdown of these user stories is presented in the video below.
 
 ### Our Top Picks
 User Story: As a college student, I want to upload an image into a quiz on eLc because I need to show my work.
-- 1
+- Idea 1: Add a embed media at the bottom of the question. This embed media button will allow you to upload media from your computer to eLc directly and use Kalturas media viewer so that it is embeded to the question. This effectively removes the requirement of Kalturas tedious upload process.
 - Wireframe:
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D51%253A44%26starting-point-node-id%3D51%3D1%26scaling%3Dcontain" allowfullscreen></iframe>
 
-- 2
+- Idea 2: On the page of the quiz question have a button to insert a kaltura viewer that is blank. The user can then drag and drop their media or select a file from their computer directly to be uploaded into the viewer. 
 - Wireframe:
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D51%253A75%26starting-point-node-id%3D51%3D1%26scaling%3Dcontain" allowfullscreen></iframe>
 
@@ -53,13 +53,6 @@ User Story: As a college student, I want to record and upload a video for my hom
 - 3
 - Wireframe:
 
-User Story: As an instructor, I want to post a video with captions on eLc because I want all my students to have access to it.
-- 1
-- Wireframe:
-- 2
-- Wireframe:
-- 3
-- Wireframe:
 
 User Story: As a college student, I want to record and upload a video for my homework submission because the assignment requires it.
 - 1
