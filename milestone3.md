@@ -131,6 +131,6 @@ A further breakdown of these user stories is presented in the video below.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ahP9146Lquo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Link
 
-<a href="=https://www.youtube.com/watch?v=ahP9146Lquo">https://youtu.be/4W_ELg_jezY</a>
+<a href="https://www.youtube.com/watch?v=ahP9146Lquo">https://youtu.be/4W_ELg_jezY</a>
 
 [Back to Home](index.md)
