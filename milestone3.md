@@ -77,7 +77,7 @@ A further breakdown of these user stories is presented in the video below.
 
 
 #### User Story 3: As a college student, I want to record and upload a video for my homework submission because the assignment requires it.
-- Idea 1: Have a kaltura video player embeded on the assignemnts view submission page for each student when there is a video file submitted. This player will automatically add the media that is uplaoded so that videos can be viewed without having to download each submission.<br>
+- Idea 1: Have a kaltura video player embeded on the assignemnts view submission page for each student when there is a video file submitted. This player will automatically add the media that is uploaded so that videos can be viewed without having to download each submission.<br>
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D123%253A256%26starting-point-node-id%3D123%3D1%26scaling%3Dcontain" allowfullscreen></iframe>
 
@@ -110,15 +110,15 @@ A further breakdown of these user stories is presented in the video below.
 ### User Story 2 - High Fidelity Mockup
 - Idea #3: Add a Kaltura capture button in the comments section of the assignemnt submission. This allows the user to not only capture the video from the assignemnt submission page but also embed it to the page for ease of viewing.
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D151%253A417%26starting-point-node-id%3D151%3D1%26scaling%3Dcontain" allowfullscreen></iframe>
-- We chose this design because...
-- Design Decisions: One of the main advantages that Kaltura's competitors have is that they are easier to set up. For this reason we wanted our solution to showcase an option that is simpler to use and set up. <a href="https://www.g2.com/products/kaltura-video-cloud/competitors/alternatives">Link to Source</a>
+- We chose this design because the reseacrh we did shows that one of the main advantages that Kaltura's competitors have is that they are easier to set up (<a href="https://www.g2.com/products/kaltura-video-cloud/competitors/alternatives">Link to Source</a>). This design solution eliminates the need to set up while also eliminating the unnecessay options from the second idea. 
+- Design Decisions: We changed the media button to a "K" because it is easier to identify it as the Kaltura embedded media option. On the "insert stuff" page we eliminated the unnecessary options that clutter the page. Clicking Kaltura Capture will now take the user to an in browser option instead of a downloaded program.
 
 
 ### User Story 3 - High Fidelity Mockup
-
+- Idea #1 - Have a kaltura video player embeded on the assignemnts view submission page for each student when there is a video file submitted. This player will automatically add the media that is uploaded so that videos can be viewed without having to download each submission.
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D151%253A388%26starting-point-node-id%3D151%3D1%26scaling%3Dcontain" allowfullscreen></iframe>
-- We chose this design because...
-- Design Decisions:
+- We chose this design because it is the more simplified option. It does not include the extra buttonto view through Kaltura and assumes that the user will want to take advantage of the embedded media.
+- Design Decisions: We changed "next user" to "next student" to clarify who's submissions the user is viewing. We also moved the next and previous buttons to right above the viewport so they are in the same sight line as the video for easier access. We added an option to download file and made that option red to differentiate from the other two buttons which have to do with grading. 
 
 
 ## D. Summary Video
