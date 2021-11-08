@@ -7,14 +7,14 @@
 - Which user stories are most relevant to your proposed solution and why? It could be all of them or perhaps only a few. Whatever you pick, please provide a strong justification with supporting evidence.
 -->
 
-### User Story Heirarchy and Justifications
+### User Story Hierarchy and Justifications
 We chose to focus on the usage of Kaltura through eLc for college students and instructors because of our experiences interacting with it in this environment. Research shows that 52% of colleges use Kaltura as their Video Platform (<a href="https://www.streamingmedia.com/Articles/News/Online-Video-News/52-of-Colleges-and-Universities-Use-a-Video-Solution-Kaltura-112291.aspx?utm_content=buffer8bcf5&utm_medium=social&utm_source=plus.google.com&utm_campaign=buffer">Link to Source</a>). This high percentage reflects a large amount of college students and instructors who use Kaltura. For these reasons we have separated our user stories into student and instructor groups.
 
 ### College Student User Stories: 
 - As a student I want to embed an image into a quiz because I am required to show my work. 
 - As a student I want to embed a video that I have already recorded into a quiz because I need explain a topic. 
 - As a student I want to record a video using Kaltura capture because I want to use the screen recording feature.
-- As a student I want to use Kaltura to add captions to my video because I want all my student peers are able to undertand it. 
+- As a student I want to use Kaltura to add captions to my video because I want all my student peers are able to understand it. 
 - As a student I want to embed media into a discussion because I found an interesting picture to explain my comment.
 
 ### Instructor User Stories:
@@ -54,7 +54,7 @@ A further breakdown of these user stories is presented in the video below.
 
 ### Our Top Picks
 #### User Story 1: As a college student, I want to upload an image into a quiz on eLc because I need to show my work.
-- Idea 1: Add a embed media at the bottom of the question. This embed media button will allow you to upload media from your computer to eLc directly and use Kalturas media viewer so that it is embeded to the question. This effectively removes the requirement of Kalturas tedious upload process.<br>
+- Idea 1: Add a embed media at the bottom of the question. This embed media button will allow you to upload media from your computer to eLc directly and use Kalturas media viewer so that it is embedded to the question. This effectively removes the requirement of Kalturas tedious upload process.<br>
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D51%253A44%26starting-point-node-id%3D51%3D1%26scaling%3Dcontain" allowfullscreen></iframe>
 
@@ -67,21 +67,21 @@ A further breakdown of these user stories is presented in the video below.
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D123%253A257%26starting-point-node-id%3D123%3D1%26scaling%3Dcontain" allowfullscreen></iframe>
 
-- Idea 2: Make Kaltura capture run throught the browser so it doesn’t have to open an external app on the user computer.<br>\
+- Idea 2: Make Kaltura capture run through the browser so it doesn’t have to open an external app on the user computer.<br>\
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D123%253A258%26starting-point-node-id%3D123%3D1%26scaling%3Dcontain" allowfullscreen></iframe>
 
-- Idea 3: Add a Kaltura capture button in the comments section of the assignemnt submission. This allows the user to not only capture the video from the assignemnt submission page but also embed it to the page for ease of viewing.<br>
+- Idea 3: Add a Kaltura capture button in the comments section of the assignment submission. This allows the user to not only capture the video from the assignment submission page but also embed it to the page for ease of viewing.<br>
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D123%253A259%26starting-point-node-id%3D123%3D1%26scaling%3Dcontain" allowfullscreen></iframe>
 
 
 #### User Story 3: As a college student, I want to record and upload a video for my homework submission because the assignment requires it.
-- Idea 1: Have a kaltura video player embeded on the assignemnts view submission page for each student when there is a video file submitted. This player will automatically add the media that is uploaded so that videos can be viewed without having to download each submission.<br>
+- Idea 1: Have a kaltura video player embedded on the assignments view submission page for each student when there is a video file submitted. This player will automatically add the media that is uploaded so that videos can be viewed without having to download each submission.<br>
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D123%253A256%26starting-point-node-id%3D123%3D1%26scaling%3Dcontain" allowfullscreen></iframe>
 
-- Idea 2: Add a button on the assignment view page that says view through kaltura. This button will take the instructor to a page with a kaltura viewer on it and a button to scroll through each students submissions and the player will update witht the video from each submisson. This will prevent Instructors from having to download videos to view them.<br>
+- Idea 2: Add a button on the assignment view page that says view through kaltura. This button will take the instructor to a page with a kaltura viewer on it and a button to scroll through each students submissions and the player will update with the video from each submission. This will prevent Instructors from having to download videos to view them.<br>
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D151%253A311%26starting-point-node-id%3D151%3D1%26scaling%3Dcontain" allowfullscreen></iframe>
 
@@ -104,20 +104,20 @@ A further breakdown of these user stories is presented in the video below.
 - Idea # 2: On the page of the quiz question have a button to insert a kaltura viewer that is blank. The user can then drag and drop their media or select a file from their computer directly to be uploaded into the viewer.
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D47%253A32%26scaling%3Dcontain%26page-id%3D0%253A1%26starting-point-node-id%3D47" allowfullscreen></iframe><br>
 - We chose this design because it cuts the most steps out of the process without limiting options or taking away from the user experience. We think the addition of the Kaltura widget adds to the user experience while still eliminating the process of going through the Kaltura "My Media" pop up.
-- Design Decisions: In order to declutter the interfece, we wanted to use as few steps as possible to insert media without limiting user options. The "Drag and Drop" option available in the Kaltura widget improves user experience and the overall look of the widget (<a href="https://medium.com/featurepreneur/how-to-create-drag-drop-file-upload-311e4ffeb56f">Link to source</a>). Having the widget appear within the submission box allows the user to preview what the embedded media will look like. By taking out the "Insert Stuff" and "My Media" pop ups we have eliminated two unnecessary pages.
+- Design Decisions: In order to declutter the interface, we wanted to use as few steps as possible to insert media without limiting user options. The "Drag and Drop" option available in the Kaltura widget improves user experience and the overall look of the widget (<a href="https://medium.com/featurepreneur/how-to-create-drag-drop-file-upload-311e4ffeb56f">Link to source</a>). Having the widget appear within the submission box allows the user to preview what the embedded media will look like. By taking out the "Insert Stuff" and "My Media" pop ups we have eliminated two unnecessary pages.
 
 
 ### User Story 2 - High Fidelity Mockup
-- Idea #3: Add a Kaltura capture button in the comments section of the assignemnt submission. This allows the user to not only capture the video from the assignemnt submission page but also embed it to the page for ease of viewing.
+- Idea #3: Add a Kaltura capture button in the comments section of the assignment submission. This allows the user to not only capture the video from the assignment submission page but also embed it to the page for ease of viewing.
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D151%253A417%26starting-point-node-id%3D151%3D1%26scaling%3Dcontain" allowfullscreen></iframe>
-- We chose this design because the reseacrh we did shows that one of the main advantages that Kaltura's competitors have is that they are easier to set up (<a href="https://www.g2.com/products/kaltura-video-cloud/competitors/alternatives">Link to Source</a>). This design solution eliminates the need to set up while also eliminating the unnecessay options from the second idea. 
+- We chose this design because the research we did shows that one of the main advantages that Kaltura's competitors have is that they are easier to set up (<a href="https://www.g2.com/products/kaltura-video-cloud/competitors/alternatives">Link to Source</a>). This design solution eliminates the need to set up while also eliminating the unnecessary options from the second idea. 
 - Design Decisions: We changed the media button to a "K" because it is easier to identify it as the Kaltura embedded media option. On the "insert stuff" page we eliminated the unnecessary options that clutter the page. Clicking Kaltura Capture will now take the user to an in browser option instead of a downloaded program.
 
 
 ### User Story 3 - High Fidelity Mockup
-- Idea #1 - Have a kaltura video player embeded on the assignemnts view submission page for each student when there is a video file submitted. This player will automatically add the media that is uploaded so that videos can be viewed without having to download each submission.
+- Idea #1 - Have a kaltura video player embedded on the assignments view submission page for each student when there is a video file submitted. This player will automatically add the media that is uploaded so that videos can be viewed without having to download each submission.
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D151%253A388%26starting-point-node-id%3D151%3D1%26scaling%3Dcontain" allowfullscreen></iframe>
-- We chose this design because it is the more simplified option. It does not include the extra buttonto view through Kaltura and assumes that the user will want to take advantage of the embedded media.
+- We chose this design because it is the more simplified option. It does not include the extra button to view through Kaltura and assumes that the user will want to take advantage of the embedded media.
 - Design Decisions: We changed "next user" to "next student" to clarify who's submissions the user is viewing. We also moved the next and previous buttons to right above the viewport so they are in the same sight line as the video for easier access. We added an option to download file and made that option red to differentiate from the other two buttons which have to do with grading. 
 
 
