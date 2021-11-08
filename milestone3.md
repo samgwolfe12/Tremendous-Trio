@@ -54,7 +54,7 @@ A further breakdown of these user stories is presented in the video below.
 
 ### Our Top Picks
 #### User Story 1: As a college student, I want to upload an image into a quiz on eLc because I need to show my work.
-- Idea 1: Add a "embed media" button at the bottom of the question. This embed media button will allow you to upload media from your computer to eLc directly and use Kalturas media viewer so that it is embedded to the question. This effectively removes the requirement of Kalturas tedious upload process.<br>
+- Idea 1: Add a embed media at the bottom of the question. This embed media button will allow you to upload media from your computer to eLc directly and use Kalturas media viewer so that it is embeded to the question. This effectively removes the requirement of Kalturas tedious upload process.<br>
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D51%253A44%26starting-point-node-id%3D51%3D1%26scaling%3Dcontain" allowfullscreen></iframe>
 
@@ -71,17 +71,17 @@ A further breakdown of these user stories is presented in the video below.
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D123%253A258%26starting-point-node-id%3D123%3D1%26scaling%3Dcontain" allowfullscreen></iframe>
 
-- Idea 3: Add a Kaltura capture button in the comments section of the assignment submission. This allows the user to not only capture the video from the assignment submission page but also embed it to the page for ease of viewing.<br>
+- Idea 3: Add a Kaltura capture button in the comments section of the assignemnt submission. This allows the user to not only capture the video from the assignemnt submission page but also embed it to the page for ease of viewing.<br>
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D123%253A259%26starting-point-node-id%3D123%3D1%26scaling%3Dcontain" allowfullscreen></iframe>
 
 
 #### User Story 3: As a college student, I want to record and upload a video for my homework submission because the assignment requires it.
-- Idea 1: Have a kaltura video player embedded on the assignments view submission page for each student when there is a video file submitted. This player will automatically add the media that is uploaded so that videos can be viewed without having to download each submission.<br>
+- Idea 1: Have a kaltura video player embeded on the assignemnts view submission page for each student when there is a video file submitted. This player will automatically add the media that is uplaoded so that videos can be viewed without having to download each submission.<br>
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D123%253A256%26starting-point-node-id%3D123%3D1%26scaling%3Dcontain" allowfullscreen></iframe>
 
-- Idea 2: Add a button on the assignment view page that says view through kaltura. This button will take the instructor to a page with a kaltura viewer on it and a button to scroll through each students submissions and the player will update with the video from each submission. This will prevent Instructors from having to download videos to view them.<br>
+- Idea 2: Add a button on the assignment view page that says view through kaltura. This button will take the instructor to a page with a kaltura viewer on it and a button to scroll through each students submissions and the player will update witht the video from each submisson. This will prevent Instructors from having to download videos to view them.<br>
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D151%253A311%26starting-point-node-id%3D151%3D1%26scaling%3Dcontain" allowfullscreen></iframe>
 
@@ -109,12 +109,14 @@ A further breakdown of these user stories is presented in the video below.
 
 ### User Story 2 - High Fidelity Mockup
 - Idea #3: Add a Kaltura capture button in the comments section of the assignemnt submission. This allows the user to not only capture the video from the assignemnt submission page but also embed it to the page for ease of viewing.
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D151%253A417%26starting-point-node-id%3D151%3D1%26scaling%3Dcontain" allowfullscreen></iframe>
 - We chose this design because...
 - Design Decisions: One of the main advantages that Kaltura's competitors have is that they are easier to set up. For this reason we wanted our solution to showcase an option that is simpler to use and set up. <a href="https://www.g2.com/products/kaltura-video-cloud/competitors/alternatives">Link to Source</a>
 
 
 ### User Story 3 - High Fidelity Mockup
--
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiAGdkPIovSaLlySNJEfQrQ%2Fwireframes%3Fnode-id%3D151%253A388%26starting-point-node-id%3D151%3D1%26scaling%3Dcontain" allowfullscreen></iframe>
 - We chose this design because...
 - Design Decisions:
 
