@@ -12,6 +12,8 @@ Elc uses Kaltura for its online streaming platform. Our group finds the process 
 [Milestone 2](milestone2.md) 
 <br>
 [Milestone 3](milestone3.md)
+<br>
+[Milestone 4](milestone4.md)
 
 
 <!--/*
