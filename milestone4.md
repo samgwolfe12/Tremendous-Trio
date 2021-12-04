@@ -38,7 +38,6 @@
   Another good method for obtaining this information would be the use of focus groups as it would be a quick way to get a look at what a group of people prefer as opposed to just one user. The best way to perform this task would be to complete a series of tasks for the group with the existing Kaltura interface and then with our interface and ask which did they prefer. As with the surveys we would ask the group if they thought our adjustments were enough or would they just prefer to use something else entirely? Obviously doing a focus group during a pandemic would have its challenges however this could be easily maneuvered by simply performing this entire demonstration on either Microsoft Teams call or a Zoom call while screen sharing with the group. 
   Lastly it is important that we work around this set of tasks all while making sure the participants are given informed consent. While the survey and focus groups were given this right away with us detailing exactly the questions were asking and why, the blind interviews would be a bit more difficult as we are not directly sharing which product is ours in the testing. However, to get around this issue we are informing them that these are two different software and our goal is to determine which experience the user preferred. There is no gray area in this description. 
 
-![image](https://user-images.githubusercontent.com/49419226/144687398-dcb955a7-b231-4658-b57f-6f2bb5a5045a.png)
 
 
 ## C. Final Summary Video
