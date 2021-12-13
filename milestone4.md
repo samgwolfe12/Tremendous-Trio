@@ -15,6 +15,10 @@
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fcv6k3Md37WmYJkJ4fopM73%2FPrototypes%3Fnode-id%3D30%253A190%26scaling%3Dmin-zoom%26page-id%3D30%253A86%26starting-point-node-id%3D30%253A190" allowfullscreen></iframe>
 <br>https://www.figma.com/proto/cv6k3Md37WmYJkJ4fopM73/Prototypes?node-id=30%3A190&scaling=min-zoom&page-id=30%3A86&starting-point-node-id=30%3A190
 - Video Demo:
+<video width="320" height="240" autoplay muted>
+  <source src="us1 demo.mov" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### Prototype 3
 - User Story: As a college student, I want to record and upload a video for my homework submission because the assignment requires it.<br>
