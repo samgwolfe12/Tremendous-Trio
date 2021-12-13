@@ -4,19 +4,19 @@
 
 ### Prototype 1
 - User Story: As a college student, I want to upload an image into a quiz on eLc because I need to show my work.<br>
-- Detailed desciption: Add a embed media at the bottom of the question. This embed media button will allow you to upload media from your computer to eLc directly and use Kalturas media viewer so that it is embedded to the question. This effectively removes the requirement of Kalturas tedious upload process.<br>
+- Detailed desciption: For this user story, we addessed the problem of a complex user interface by adding an "embed media" button at the bottom of the question. This embed media button will allow you to upload media from your computer to eLc directly and use Kalturas media viewer so that it is embedded to the question. This effectively removes the requirement of Kalturas tedious upload process.<br>
 - Video Demo:
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fcv6k3Md37WmYJkJ4fopM73%2FPrototypes%3Fnode-id%3D8%253A26%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D8%253A26" allowfullscreen></iframe>
 
 ### Prototype 2
 - User Story: As a college student, I want to record and upload a video for my homework submission because the assignment requires it.<br>
-- Detailed desciption: Add a button in the add file menu to open Kaltura Capture and record video for assignment directly in the assignment submission page.<br>
+- Detailed desciption: For this user story, we addessed the problem of a complex user interface by adding a button in the add file menu to open Kaltura Capture and record video for assignment directly in the assignment submission page.<br>
 - Video Demo:
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fcv6k3Md37WmYJkJ4fopM73%2FPrototypes%3Fnode-id%3D30%253A190%26scaling%3Dmin-zoom%26page-id%3D30%253A86%26starting-point-node-id%3D30%253A190" allowfullscreen></iframe>
 
 ### Prototype 3
 - User Story: As a college student, I want to record and upload a video for my homework submission because the assignment requires it.<br>
-- Detailed desciption: Have a kaltura video player embedded on the assignments view submission page for each student when there is a video file submitted. This player will automatically add the media that is uploaded so that videos can be viewed without having to download each submission.<br>
+- Detailed desciption: For this user story, we addessed the problem of a complex user interface by having a kaltura video player embedded on the assignments view submission page for each student when there is a video file submitted. This player will automatically add the media that is uploaded so that videos can be viewed without having to download each submission.<br>
 - Video Demo:
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fcv6k3Md37WmYJkJ4fopM73%2FPrototypes%3Fnode-id%3D30%253A233%26scaling%3Dmin-zoom%26page-id%3D30%253A87" allowfullscreen></iframe>
 
@@ -43,5 +43,8 @@
 ## C. Final Summary Video
 
 
+## Fair Use Notice
+This site by the group Tremendous Trio (“we” or “us” or “our”), including any other media form, media channel, mobile website, or mobile application related or connected thereto (collectively, the “Site”), may contain copyrighted material, the use of which may not have been specifically authorized by the copyright owner. This material is available in an effort to explain material relevant to students studying Human-Computer Interaction (HCI), User Experience (UX), User Interfaces (UIs), and related subjects or to illustrate the use and benefits of related tools.
 
+Site content is distributed without profit for research and educational purposes. Only small portions of original, copyrighted works are being used without explicit authorization and those could not be used easily to duplicate the original works. This should constitute a “fair use” of any such copyrighted material (referenced and provided for in section 107 of the US Copyright Law). If a user (“user” or “you”) wishes to use any copyrighted material from this site for purposes of their own that go beyond “fair use”, then they must obtain expressed permission from the current copyright owner.
 
