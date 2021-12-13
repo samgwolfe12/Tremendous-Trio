@@ -5,20 +5,24 @@
 ### Prototype 1
 - User Story: As a college student, I want to upload an image into a quiz on eLc because I need to show my work.<br>
 - Detailed desciption: For this user story, we addessed the problem of a complex user interface by adding an "embed media" button at the bottom of the question. This embed media button will allow you to upload media from your computer to eLc directly and use Kalturas media viewer so that it is embedded to the question. This effectively removes the requirement of Kalturas tedious upload process.<br>
-- Video Demo:
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fcv6k3Md37WmYJkJ4fopM73%2FPrototypes%3Fnode-id%3D8%253A26%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D8%253A26" allowfullscreen></iframe>
+<br>https://www.figma.com/proto/cv6k3Md37WmYJkJ4fopM73/Prototypes?scaling=min-zoom&page-id=0%3A1&starting-point-node-id=8%3A26&node-id=8%3A26
+- Video Demo:
 
 ### Prototype 2
 - User Story: As a college student, I want to record and upload a video for my homework submission because the assignment requires it.<br>
 - Detailed desciption: For this user story, we addessed the problem of a complex user interface by adding a button in the add file menu to open Kaltura Capture and record video for assignment directly in the assignment submission page.<br>
-- Video Demo:
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fcv6k3Md37WmYJkJ4fopM73%2FPrototypes%3Fnode-id%3D30%253A190%26scaling%3Dmin-zoom%26page-id%3D30%253A86%26starting-point-node-id%3D30%253A190" allowfullscreen></iframe>
+<br>https://www.figma.com/proto/cv6k3Md37WmYJkJ4fopM73/Prototypes?node-id=30%3A190&scaling=min-zoom&page-id=30%3A86&starting-point-node-id=30%3A190
+- Video Demo:
 
 ### Prototype 3
 - User Story: As a college student, I want to record and upload a video for my homework submission because the assignment requires it.<br>
 - Detailed desciption: For this user story, we addessed the problem of a complex user interface by having a kaltura video player embedded on the assignments view submission page for each student when there is a video file submitted. This player will automatically add the media that is uploaded so that videos can be viewed without having to download each submission.<br>
-- Video Demo:
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fcv6k3Md37WmYJkJ4fopM73%2FPrototypes%3Fnode-id%3D30%253A233%26scaling%3Dmin-zoom%26page-id%3D30%253A87" allowfullscreen></iframe>
+<br>https://www.figma.com/proto/cv6k3Md37WmYJkJ4fopM73/Prototypes?node-id=30%3A233&scaling=min-zoom&page-id=30%3A87
+- Video Demo:
+
 
 ## B. Testing Protocol
 
